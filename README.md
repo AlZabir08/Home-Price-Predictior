@@ -4,12 +4,15 @@ This code is an implementation of a decision tree regression model for predictin
 
 To run this code, you will need to have Python and the following libraries installed:
 
-pandas
-scikit-learn
+1. pandas
+2. scikit-learn
+
 You can install these libraries using pip, a package manager for Python:
 
-Copy code
+Copy code:
+
 pip install pandas scikit-learn
+
 The dataset used in this code is the "Home Data for Machine Learning" dataset, which can be found at the following link: https://www.kaggle.com/c/home-data-for-ml-course/data
 
 Once you have downloaded the dataset, make sure to update the file path in the code to match the location where you have saved the dataset.
