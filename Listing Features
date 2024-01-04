@@ -1,2 +1,0 @@
-feature_names = ["LotArea","YearBuilt","1stFlrSF","2ndFlrSF","FullBath","BedroomAbvGr","TotRmsAbvGrd"]
-X = home_data[feature_names]
