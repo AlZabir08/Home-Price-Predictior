@@ -10,5 +10,4 @@ Technology and tools wise this project covers, <br>
 3.Matplotlib for data visualization <br>
 4.Sklearn for model building <br>
 <br>
-<b> Dataset used here was taken from: https://github.com/yasserius/dhaka-property-prices-map/blob/main/bproperty_data.csv </b>
 
